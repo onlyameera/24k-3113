@@ -1,0 +1,5 @@
+START
+INPUT a,b,c
+SET ANS=a-(-b)-(-c)
+DISPLAY ANS
+END
