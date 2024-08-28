@@ -1,0 +1,15 @@
+START
+SET A=Addition
+SET S=Subtraction
+DISPLAY "Select an Operation"
+IF INPUT A THEN
+ INPUT a,b,c
+ SET SUM=a+b+c
+  DISPLAY SUM
+  IF INPUT S THEN
+   INPUT a,b,c
+    SET DIFF=a-b-c
+     DISPLAY DIFF
+ELSE 
+  DISPLAY "Invalid option"
+END
