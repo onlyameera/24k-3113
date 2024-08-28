@@ -1,0 +1,55 @@
+Q1
+Ask the user to enter number N
+Ask the user to enter number n
+SET Ans to (n/N)
+IF Ans in Whole number
+  Display "N is a divisor of n"
+ ELSE 
+  Display Ans
+IF Ans is divisble by 2 (Ans/2)
+  Display "Even"
+ ELSE 
+   Display "Odd"
+
+
+Q2
+Ask the user to enter any number from 1 to 12
+When user enters 1
+ Display "January"
+When user enters 2
+ Display "February"
+When user enters 3
+ Display "March"
+When user enters 4
+ Display "April"
+When user enters 5
+ Display "May"
+When user enters 6
+ Display "June"
+When user enters 7
+ Display "July"
+When user enters 8
+ Display "August"
+When user enters 9
+ Display "September"
+When user enters 10
+ Display "October"
+When user enters 11
+ Display "November"
+When user enters 12
+ Display "December"
+
+
+Q3
+Ask the user to enter num1
+Ask the user to enter num2
+SET Sum to (num1+num2)
+Display Sum
+SET Diff to (num1-num2)
+Display Diff
+SET Product to (num1*num2)
+Display Product
+SET ANS to (num1/num2)
+Display ANS
+SET Remainder to (num1%num2)
+Display Remainder
